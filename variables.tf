@@ -45,3 +45,4 @@ variable "vpc_tags" {
     Environment = "dev"
   }
 }
+
